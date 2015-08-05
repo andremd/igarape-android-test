@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">IgarapeTest</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="label_lat">Latitude:</string>
+    <string name="label_lng">Longitude:</string>
+
+    <string name="action_settings">Unused Settings Menu</string>
 </resources>
